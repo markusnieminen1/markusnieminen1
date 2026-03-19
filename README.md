@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 
 ## Hello - My name is Markus 🇫🇮👋
 
-I have keen interest in technology, finance and business. 
+I have keen interest in technology, finance and business.
 
 Everything I know about programming and tech is self-taught. I started learning around 2020–2021, and I’ve quit and picked it up many times since. I guess I need that feeling of success you get after pushing through a struggle.
 
-At the moment, I’m picking up version control practises, service design, and operational orchestration.
-
+Currently I'm more focused on learning GDPR and AI Act compliance.
 
 ### I have used especially Python for various tasks:
 - Analysing data using Numpy and Pandas (e.g. data from yfinance)
@@ -29,17 +28,31 @@ At the moment, I’m picking up version control practises, service design, and o
 - Created FastAPI that uses JWTs for Auth, Postgres(Supabase) for DB and bcrypt for password hashing & (Client side using React and premade components)
 - Generate PDF invoices with working virtual barcodes according to [Finanssivalvonta Guidelines](https://www.finanssiala.fi/wp-content/uploads/2021/03/Pankkiviivakoodi-opas.pdf)
 - Simulated electronics retailer sales for PowerBI practise datasets
+- Writing tailored job applications using AI (Finnish language applications with an actual logic) 
+- Finding relevant job listings using Claude (MCP tools for calling Työmarkkinatori API)
 
 
 ### And some non python projects include:
 - A pocket calculator in Excel using VBA (for difficult math ;) )
 - Automated watering solution for indoor plant using Arduino Uno, relay, sensor and water pump
 - Locally running n8n for automation tasks, using ngrok tunnel for Google's Auth flow
+- Compiled terminal programs in Golang (e.g. Wordle)
 - And probably done some other projects that I cannot remember just now
+---
+### My current university degree is Bachelor of Business Administration (BBA) in Accounting and Finance.
 
-#### My current university degree is BBA in Accounting and Finance.
+I have passed courses regarding: managerial & financial accounting, investments (financial & CapEx), internal auditing, business systems, cross-cultural communications & aspects, international business, marketing & sales, and more. I graduated with 265 ECTS out of mandatory 210 ECTS. 
 
-### Feel free to reach out to me on LinkedIn if you have any questions, feedback or suggestions for the future! Any help on my professional growth is greatly appreciated :)
+#### The thesis was commissioned by a cyber security consultant. The project included a PoC that had 4 components:
+- Simple frontend made with React + Material UI (and vibecoding)
+- Python FastAPI backend
+- Postgres database
+- Process for syncing Postgres database with the most recent CVE's
+
+In the project I leveraged AI for enriching CVE items with -50 % price tag by using batch processing. It added some complexity to the project due to strict jsonb file format and custom logic for automatically processing new CVE items. I had to think about creating files, uploading files, running batches, checking for ready batches, downloading files when ready, parsing jsonb file items back to objects, inserting data to database, etc. Even though the costs for using AI weren't really high to begin with, it was a valuable learning experience. 
+
+---
+### Feel free to reach out to me on LinkedIn if you have any questions, feedback or suggestions for the future! Any help on my professional growth is greatly appreciated :
 
 
 ### My socials: 
@@ -68,14 +81,18 @@ At the moment, I’m picking up version control practises, service design, and o
 <br>
 <br>
 
-### Technologies I want to learn in the future: 
+### Technologies I aim to learn in the future: 
 - Kubernetes
-- C++ or Rust
+- C, C++ or Rust
 - GPU programming (Cuda or general alternative)
+
+### Platforms I aim to improve using: 
+- Cloud computing (Azure, AWS, Google Cloud, UpCloud)
+- Cloudflare (Networking, Tunnels, Firewalls, Zero-trust...)
 
 <br>
 
 
-SVGs used in this readme are from \
+**SVGs used in this readme are from** \
 https://tabler.io/\
 https://www.svgrepo.com
