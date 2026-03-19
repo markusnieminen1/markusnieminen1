@@ -1,4 +1,3 @@
-
 <!--! **markusnieminen1/markusnieminen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -66,6 +65,7 @@ In the project I leveraged AI for enriching CVE items with -50 % price tag by us
 <a href="https://www.python.org" target="_blank"> <img width="50px" align="left" alt="Python Logo" src="https://github.com/user-attachments/assets/360ef1bd-9f9c-4d7f-943b-b3d448a4bd95"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="50px" align="left" alt="Javascript Logo" src="https://github.com/user-attachments/assets/20ee351c-8cc0-4053-8ed5-4053557b809e"/></a>
 <a href="https://aws.amazon.com/what-is/sql/" target="_blank"> <img width="50px" align="left" alt="SQL Logo" src="https://github.com/user-attachments/assets/71afbcb6-5459-4c8b-aa06-a2de54a1114c"/></a>
+<a href="https://go.dev" target="_blank"> <img width="60px" align="left" alt="Golang Logo" src="https://github.com/user-attachments/assets/3180c9c3-1f85-4487-a15c-36182b8a97d2"/></a>
 
 <br>
 <br>
