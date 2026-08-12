@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## Hello - My name is Markus 🇫🇮👋
 
 I have keen interest in technology, finance and business.
@@ -51,31 +52,30 @@ I have passed courses regarding: managerial & financial accounting, investments 
 In the project I leveraged AI for enriching CVE items with -50 % price tag by using batch processing. It added some complexity to the project due to strict jsonb file format and custom logic for automatically processing new CVE items. I had to think about creating files, uploading files, running batches, checking for ready batches, downloading files when ready, parsing jsonb file items back to objects, inserting data to database, etc. Even though the costs for using AI weren't really high to begin with, it was a valuable learning experience. 
 
 ---
-### Feel free to reach out to me on LinkedIn if you have any questions, feedback or suggestions for the future! Any help on my professional growth is greatly appreciated :
+### Feel free to reach out to me on LinkedIn if you have any questions, feedback or suggestions for the future! Any help on my professional growth is greatly appreciated!
 
 
 ### My socials: 
-<a href="https://www.linkedin.com/in/markustnieminen" target="_blank"/> <img align="left" width="50px" fill="white" alt="LinkedIn logo" src="https://github.com/user-attachments/assets/6df673ad-2753-4c4b-8568-0803ebd139a4"/> </a>
+<a href="https://www.linkedin.com/in/markustnieminen" target="_blank"/> <img align="left" width="50px" fill="white" alt="LinkedIn logo" src="https://github.com/user-attachments/assets/57dd7000-b439-4601-8304-bfe09d41c444"/> </a>
 
 <br>
 <br>
 
 
 ### I know the basics of:
-<a href="https://www.python.org" target="_blank"> <img width="50px" align="left" alt="Python Logo" src="https://github.com/user-attachments/assets/360ef1bd-9f9c-4d7f-943b-b3d448a4bd95"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="50px" align="left" alt="Javascript Logo" src="https://github.com/user-attachments/assets/20ee351c-8cc0-4053-8ed5-4053557b809e"/></a>
-<a href="https://aws.amazon.com/what-is/sql/" target="_blank"> <img width="50px" align="left" alt="SQL Logo" src="https://github.com/user-attachments/assets/71afbcb6-5459-4c8b-aa06-a2de54a1114c"/></a>
-<a href="https://go.dev" target="_blank"> <img width="60px" align="left" alt="Golang Logo" src="https://github.com/user-attachments/assets/3180c9c3-1f85-4487-a15c-36182b8a97d2"/></a>
+<a href="https://www.python.org" target="_blank"> <img width="50px" align="left" alt="Python Logo" src="https://github.com/user-attachments/assets/fafc58a8-f487-42dc-b935-7c1cf1653d55"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="50px" align="left" alt="Javascript Logo" src="https://github.com/user-attachments/assets/8b482e2d-b934-4ba6-86a5-98ed404b7bee"/></a>
+<a href="https://aws.amazon.com/what-is/sql/" target="_blank"> <img width="50px" align="left" alt="SQL Logo" src="https://github.com/user-attachments/assets/d3726986-7d3c-4a9d-8722-e1dbd9e26e89"/></a>
+<a href="https://go.dev" target="_blank"> <img width="60px" align="left" alt="Golang Logo" src="https://github.com/user-attachments/assets/e4bec483-12a4-46cc-9003-f237e0b4db17"/></a>
 
 <br>
 <br>
 
 ### Some of the software that I've used: 
-<a href="https://code.visualstudio.com" target="_blank"> <img align="left" alt="Visual Studio Code Logo" width="50px" src="https://github.com/user-attachments/assets/b1e895f8-0941-4f32-8968-63945a46baaf" /></a>
-<a href="https://git-scm.com" target="_blank"> <img align="left" alt="Git Logo" width="50px" src="https://github.com/user-attachments/assets/11068c6b-d804-49ae-b27f-fac61fd962a9" /></a>
-<a href="https://www.docker.com" target="_blank"> <img align="left" alt="Docker Logo" width="50px" src="https://github.com/user-attachments/assets/0d37d8ab-9db9-4c89-aa79-da6e6a4392a5"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img align="left" alt="Excel Logo" width="50px" src="https://github.com/user-attachments/assets/382c0480-600b-4b58-a2c5-3190fbae5a3b" /></a>
-<a href="https://www.microsoft.com/en/microsoft-365/microsoft-365-business" target="_blank"> <img align="left" alt="Office-365 Logo" width="50px" src="https://github.com/user-attachments/assets/1d19fe41-a783-4dde-87c0-6892a99ec2c0" /></a>
+<a href="https://code.visualstudio.com" target="_blank"> <img align="left" alt="Visual Studio Code Logo" width="50px" src="https://github.com/user-attachments/assets/390b2d53-82ac-426e-9b98-a9e01cbd35b8" /></a>
+<a href="https://git-scm.com" target="_blank"> <img align="left" alt="Git Logo" width="50px" src="https://github.com/user-attachments/assets/ba18d711-86ef-423b-adad-cc68a73f7c93" /></a>
+<a href="https://www.docker.com" target="_blank"> <img align="left" alt="Docker Logo" width="50px" src="https://github.com/user-attachments/assets/567ffd76-99a9-40a0-b39e-de1f2cdd0888"/></a>
+<a href="https://www.microsoft.com/en/microsoft-365/microsoft-365-business" target="_blank"> <img align="left" alt="Office-365 Logo" width="50px" src="https://github.com/user-attachments/assets/517962cc-8389-4cbf-897c-aa7d272dc5fc" /></a>
 
 <br>
 <br>
