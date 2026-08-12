@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 I have keen interest in technology, finance and business.
 
-Everything I know about programming and tech is self-taught. I started learning around 2020–2021, and I’ve quit and picked it up many times since. I guess I need that feeling of success you get after pushing through a struggle.
+Almost everything I know about programming and tech is self-taught. I started learning around 2020–2021, and I’ve quit and picked it up many times since. I guess I need that feeling of success you get after pushing through a struggle.
 
-Currently I'm more focused on learning GDPR and AI Act compliance.
+### Nowadays I'm studying software engineering at <a href="https://hive.fi" target="_blank"><img height="150" align="middle" alt="Hive Helsinki Logo" src="https://github.com/user-attachments/assets/b75653b6-b3ba-445d-bf6c-0ef022daa2d7"/></a>
 
+<br>
+
+
+---
 ### I have used especially Python for various tasks:
 - Analysing data using Numpy and Pandas (e.g. data from yfinance)
 - Used AI SDKs (OpenAI & Google) with function (or tool-) calling and Pydantic validated structured outputs
