@@ -94,5 +94,4 @@ In the project I leveraged AI for enriching CVE items with -50 % price tag by us
 
 
 **SVGs used in this readme are from** \
-https://tabler.io/\
 https://www.svgrepo.com
